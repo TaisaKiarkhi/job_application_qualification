@@ -4,9 +4,9 @@ using namespace std;
 
 int main() {
 
-//This is a very weird program with very weird condition in the job interview. The task was taken from a c++ book.
+//This is a very weird program with very weird conditions in the job interview. The task was taken from a c++ book.
 // The person who applies for a job should be older than 21 years old and less than 35,
-//the person should be an umarried woman who has bachelor or master degree and speak Hindi or Urdu
+//the person should be an umarried woman who has bachelor or master degree and speaks Hindi or Urdu
 
 	    int age{};
 	    char gender{};
